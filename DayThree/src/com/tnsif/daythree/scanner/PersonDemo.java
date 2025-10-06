@@ -35,6 +35,7 @@ public class PersonDemo {
 		System.out.println("After calculation tax :");
 		
 		System.out.println(person);
+		ob.close();
 		
 		
 	}
