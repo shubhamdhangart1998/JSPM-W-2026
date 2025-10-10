@@ -19,7 +19,7 @@ public class Division {
 			c=a/b;
 			System.out.println("Diviosn is "+ c);
 		}
-		catch(ArithmeticException e)
+		catch(ArithmeticException  e)
 		{
 			System.err.println(e.getMessage());
 		}
