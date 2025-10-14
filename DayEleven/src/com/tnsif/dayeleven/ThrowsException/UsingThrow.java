@@ -28,7 +28,7 @@ public class UsingThrow {
 			
 		throw new negativeException();
 			
-			Thread
+			
 			else if(per>100) 
 				{throw new greaterValueException();}
 			else 
